@@ -1,4 +1,4 @@
-[@github.com/briananotado](https://github.com/briananotado) | [@kaggle.com/briananotado](https://kaggle.com/briananotado) | [@linkedin.com/in/briananotado](https://linkedin.com/in/briananotado)
+| [@github.com/briananotado](https://github.com/briananotado) | [@kaggle.com/briananotado](https://kaggle.com/briananotado) | [@linkedin.com/in/briananotado](https://linkedin.com/in/briananotado) |
 
 Leveraging AI to help solve real-world problems and drive positive change.
 
