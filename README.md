@@ -2,7 +2,7 @@
 
 Leveraging AI to help solve real-world problems and drive positive change.
 
-I'm passionate about coding and turning concepts into solutions Let's connect and explore opportunities together!
+I'm passionate about coding and turning concepts into solutions. Let's connect and explore opportunities together!
 
 <!---
 briananotado/briananotado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
