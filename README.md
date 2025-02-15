@@ -1,4 +1,4 @@
-[@github.com/briananotado](https://github.com/briananotado) [@kaggle.com/briananotado](https://kaggle.com/briananotado) [@linkedin.com/in/briananotado](https://linkedin.com/in/briananotado)
+[@linkedin.com/in/briananotado](https://linkedin.com/in/briananotado) [@kaggle.com/briananotado](https://kaggle.com/briananotado)
 
 I like building stuff and turning concepts into solutions. Let's connect and explore opportunities together!
 
